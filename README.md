@@ -1,5 +1,4 @@
-## **This project analyzes road accident data using Power BI to uncover patterns, identify high-risk areas, and highlight contributing factors.**
-## **The goal is to help policy makers, traffic authorities, and the public understand accident trends and work towards reducing road mishaps.**
+## **This project analyzes road accident data using Power BI to uncover patterns, identify high-risk areas, and highlight contributing factors.The goal is to help policy makers, traffic authorities, and the public understand accident trends and work towards reducing road mishaps.**
 
 ### Objectives
 
